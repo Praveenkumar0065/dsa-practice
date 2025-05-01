@@ -1,6 +1,7 @@
-# Problem: Valid_Anagram
+# Problem: Valid Anagram
 # Platform: LeetCode
-#Language: Pyhton
+# Language: Python
+# Approach: Using Counter (Hash Map Frequency Comparison)
 
 from collections import Counter
 
